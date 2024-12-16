@@ -28,6 +28,10 @@ header h1 {
   margin-left: 10px;
 }
 
+p {
+  font-size: small;
+}
+
 #icon {
   width: 64px;
   height: 64px;
